@@ -4,36 +4,39 @@ An AI-powered assistant application built using **Spring Boot**, **React**, and 
 This project delivers real-time AI-generated responses with a modern and responsive user interface.
 
 ---
+# 🚀 Live Demo
+
+🔗 https://spring-ai-assistant.vercel.app/
 
 # ✨ Features
 
-- 🤖 AI chatbot powered by Groq LLM
-- ⚡ Real-time AI responses
-- 🌐 REST API integration using Spring Boot
-- 🎨 Modern and responsive UI
-- ⚛️ Fast frontend with React + Vite
-- 💨 Tailwind CSS styling
-- 💬 User-friendly chat interface
-- 🧩 Component-based architecture
-- 🔒 Secure API key management
-- 🚀 Lightweight and high-performance application
+-  AI chatbot powered by Groq LLM
+-  Real-time AI responses
+-  REST API integration using Spring Boot
+-  Modern and responsive UI
+-  Fast frontend with React + Vite
+-  Tailwind CSS styling
+-  User-friendly chat interface
+-  Component-based architecture
+-  Secure API key management
+-  Lightweight and high-performance application
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🔙 Backend
-- ☕ Java
-- 🍃 Spring Boot
-- 🤖 Spring AI
-- ⚡ Groq API
-- 📦 Maven
+##  Backend
+-  Java
+-  Spring Boot
+-  Spring AI
+-  Groq API
+-  Maven
 
 ## 🎨 Frontend
-- ⚛️ React
-- ⚡ Vite
-- 💨 Tailwind CSS
-- 🔗 Axios
+-  React
+-  Vite
+-  Tailwind CSS
+-  Axios
 
 ---
 
@@ -178,21 +181,21 @@ This project uses the **Groq API** for generating AI-based responses.
 
 # 🚀 Future Enhancements
 
-- 🔐 User authentication and authorization
-- 🌙 Dark mode support
-- 🎤 Voice-based AI assistant
-- 🌍 Multi-language support
-- 📂 File upload and document analysis
-- 🤹 Support for multiple AI models
-- ☁️ Cloud database integration
-- 📊 AI analytics dashboard
-- 🧠 Personalized recipe recommendations
-- ❤️ Favorite recipes feature
-- 📧 Share recipes through email or social media
-- 🔍 Advanced search for chats and recipes
-- 🖼️ Image-based ingredient detection
-- 📱 Progressive Web App (PWA) support
-- 🔔 Real-time notifications and updates
+-  User authentication and authorization
+-  Dark mode support
+-  Voice-based AI assistant
+-  Multi-language support
+-  File upload and document analysis
+-  Support for multiple AI models
+-  Cloud database integration
+-  AI analytics dashboard
+-  Personalized recipe recommendations
+-  Favorite recipes feature
+-  Share recipes through email or social media
+-  Advanced search for chats and recipes
+-  Image-based ingredient detection
+-  Progressive Web App (PWA) support
+-  Real-time notifications and updates
 
 ---
 
@@ -202,7 +205,7 @@ This project uses the **Groq API** for generating AI-based responses.
 - ▲ Vercel
 
 ## Backend
-- 🚂 Render 
+-  Render 
 
 ---
 
