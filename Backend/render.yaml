@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: spring-ai-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile

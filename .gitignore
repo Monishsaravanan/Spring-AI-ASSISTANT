@@ -1,0 +1,13 @@
+# Java / Maven
+Backend/SpringAiDemo/target/
+Backend/SpringAiDemo/.idea/
+**/target/
+**/.idea/
+
+# Node / frontend
+Frontend/node_modules/
+Frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
