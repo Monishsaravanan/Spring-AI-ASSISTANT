@@ -4,9 +4,6 @@ An AI-powered assistant application built using **Spring Boot**, **React**, and 
 This project delivers real-time AI-generated responses with a modern and responsive user interface.
 
 ---
-# 🚀 Live Demo
-
-🔗 https://spring-ai-assistant.vercel.app/
 
 # ✨ Features
 
